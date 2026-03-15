@@ -1,6 +1,6 @@
 # Hi, I'm Vladimir! 👋
 
-### Full-Stack Software Engineer & Architecture Enthusiast
+### Full-Stack Software Engineer
 
 I specialize in building modular, scalable web applications with a focus on strict architectural patterns and high-performance system environments.
 
