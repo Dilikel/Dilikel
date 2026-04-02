@@ -43,9 +43,3 @@ I build applications using industry-standard methodologies to ensure long-term m
 - **SOLID** principles & Modular design
 
 ---
-
-## 📈 Stats & Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Dilikel&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilikel&layout=compact&theme=tokyonight)
