@@ -41,5 +41,3 @@ I build applications using industry-standard methodologies to ensure long-term m
 - **FSD (Feature-Sliced Design)**
 - **Atomic Design** for UI components
 - **SOLID** principles & Modular design
-
----
